@@ -1,3 +1,3 @@
 #!/bin/python3
 
-print('Hello Linux')
+print('Hello World')
